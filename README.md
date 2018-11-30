@@ -13,5 +13,5 @@ pip install ffmpeg-python==0.1.16
 3. Run.
 
 ```
-python3 bilibili_concat.py /path/to/bangumi
+python3 bilibili_concat.py /path/to/BilibiliDownload/123456
 ```
